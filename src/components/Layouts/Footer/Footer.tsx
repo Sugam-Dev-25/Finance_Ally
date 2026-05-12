@@ -15,7 +15,7 @@ import {
   EnvelopeSimpleOpen,
 } from "@phosphor-icons/react";
 
-import logo2 from "../../../assets/logo.png";
+import logo2 from "../../../assets/Company_Logo.png";
 
 const Footer: React.FC = () => {
   const [blogs, setBlogs] = useState<BlogItem[]>([]);
